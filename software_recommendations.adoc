@@ -1,0 +1,150 @@
+= Software Recommendations
+:source-highlighter: rouge
+
+== Chocolatey
+
+7zip.install::
+ccache::
+(TODO try this out)
+cmake.install::
+cppcheck::
+(TODO try this out)
+doxygen.install::
+Everything::
+git.install::
+gitversion.portable::
+(TODO try this out)
+gow::
+graphviz::
+hxd::
+keepass.install::
+kicad::
+llvm::
+mingw::
+neovim::
+notepadplusplus.install::
+p4merge::
+(TODO try this out)
+putty.install::
+sourcetrail::
+sysinternals::
+tortoisegit::
+virtualbox::
+vlc::
+wireshark::
+youtube-dl::
+// REMOVING THIS COMMENT CAN BREAK THE FORMATTING
+
+== Apt (Ubuntu)
+
+ccache::
+clang::
+cowsay::
+dos2unix::
+fish::
+[source, sh]
+----
+chsh -s /usr/bin/fish
+----
+fortune-mod::
+g++::
+gcc::
+gdb::
+make::
+neovim::
+ninja-build::
+qpdf::
+tldr::
+tree::
+zsh::
+// REMOVING THIS COMMENT CAN BREAK THE FORMATTING
+
+== pip3
+
+beautifulsoup4:: 
+numpy:: 
+nrfutil:: 
+pdbpp:: 
+pylint:: 
+pyserial:: 
+pytest:: 
+// REMOVING THIS COMMENT CAN BREAK THE FORMATTING
+
+== Windows Installers
+
+https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads/[GNU Arm Embedded Toolchain]::
+https://www.saleae.com/downloads/[Saleae Logic]::
+https://www.nordicsemi.com/Software-and-tools/Development-Tools/nRF-Connect-for-desktop/Download/[nRF Connect]::
+https://code.visualstudio.com/download/[Visual Studio Code]::
+(NOTE be sure to grab the 64-bit System Installer, not the User Installer)
+https://visualstudio.microsoft.com/downloads/[Visual Studio Community]::
+// REMOVING THIS COMMENT CAN BREAK THE FORMATTING
+
+== Windows - Build From Source
+
+https://github.com/llvm/llvm-project/[LLVM]::
+Run "x64 Native Tools Command Prompt for VS 20XX" with the following commands:
+[source, sh]
+----
+git clone --config core.autocrlf=false https://github.com/llvm/llvm-project.git
+cd llvm-project
+mkdir build
+cd build
+cmake -G Ninja -DCMAKE_C_COMPILER=clang-cl -DCMAKE_CXX_COMPILER=clang-cl -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX="C:/Tools/LLVM" -DLLVM_ENABLE_PROJECTS="clang;libcxx;libcxxabi" ../llvm
+cmake --build .
+----
+
+// REMOVING THIS COMMENT CAN BREAK THE FORMATTING
+
+== Ubuntu (WSL) - Build From Source
+
+https://www.youtube.com/watch?v=_yFPO1ofyF0[cmake]::
+https://github.com/compiler-explorer/compiler-explorer[Compiler Explorer]::
+https://include-what-you-use.org/downloads/[include-what-you-use]::  
+(TODO try this out on windows)
+(NOTE requires building from source)
+
+== Websites
+
+https://discourse.cmake.org/::
+https://cppinsights.io/::
+https://godbolt.org/::
+http://detexify.kirelabs.org/classify.html::
+https://devzone.nordicsemi.com/::
+https://placekitten.com/::
+https://regex101.com/::
+https://e2e.ti.com/::
+https://wandbox.org/::
+https://www.wikistim.org/::
+// REMOVING THIS COMMENT CAN BREAK THE FORMATTING
+
+== Environment Variables (Windows)
+
+https://devblogs.microsoft.com/commandline/share-environment-vars-between-wsl-and-windows/
+
+[cols="1,1"]
+|===
+| ChocolateyToolsLocation   | C:\Tools
+| GCCARMEMB_TOOLCHAIN_PATH  | C:\Program Files (x86)\GNU Tools Arm Embedded\7 2018-q2-update\bin
+| VCPKG_ROOT                | C:\Libs\vcpkg
+|===
+
+== VCPKG
+
+(boost-)asio:: 
+boost-format::
+boost-lockfree::
+boost-program-options::
+catch2::
+curl::
+fmt::
+ms-gsl::
+openssl-windows::
+protobuf::
+spdlog::
+// REMOVING THIS COMMENT CAN BREAK THE FORMATTING
+
+== TODO
+
+ditaa
+plantUML

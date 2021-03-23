@@ -1,0 +1,130 @@
+= Educational Resources
+
+== Blogs
+
+https://docs.microsoft.com/en-us/cpp/cpp/cpp-bit-fields[C++ Bit Fields]::
+http://antoniak.in/blog/2018/11/21/clang-mingw-headers-windows/[Clang++ with MinGW headers on Windows]::
+https://sakurautio.github.io/2019/10/18/Continuous-Integration-with-IAR-EW/[Continuous Integration with IAR Embedded Workbench]::
+https://wiki.osdev.org/GCC_Cross-Compiler[GCC Cross-Compiler]::
+https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-git[Get started using Git on Windows Subsystem for Linux]::
+http://www.gotw.ca/gotw/020.htm::
+https://preshing.com/20141119/how-to-build-a-gcc-cross-compiler/[How to Build a GCC Cross-Compiler]::
+https://www.nohello.com/::
+https://en.wikipedia.org/wiki/Shebang_(Unix)::
+
+// REMOVING THIS COMMENT CAN BREAK THE FORMATTING
+
+== Books
+
+https://www.elsevier.com/books/neuromodulation/krames/978-0-12-805353-9[Neuromodulation 2nd Edition]::
+https://beej.us/guide/bgnet/[Beej's Guide to Network Programming Using Internet Sockets]::
+https://www.oreilly.com/library/view/bluetooth-low-energy/9780132888394/[Bluetooth Low Energy: The Developer's Handbook]::
+https://theboostcpplibraries.com/[The Boost C++ Libraries]::
+https://www.deeplearningbook.org/[Deep Learning]::
+https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html[Is Parallel Programming Hard, And, If So, What Can You Do About It?]::
+https://crascit.com/professional-cmake/[Professional CMake]::
+https://curl.se/book.html[Everything curl]::
+https://www.freertos.org/Documentation/RTOS_book.html[FreeRTOS Documentation]::
+
+// REMOVING THIS COMMENT CAN BREAK THE FORMATTING
+
+== Lectures
+
+https://media.ccc.de/v/27c3-4087-en-console_hacking_2010[Console Hacking 2010 PS3 Epic Fail]::
+https://www.youtube.com/watch?v=NZCyk3rmmGQ["Automating Fabrication Outputs With KiCad And Git" - Jesse Vincent (KiCon 2019)]::
+https://www.youtube.com/watch?v=A8eCGOqgvH4[C++ and Beyond 2012: Herb Sutter - atomic Weapons 1 of 2]::
+https://www.youtube.com/watch?v=KeLBd2EJLOU[C++ and Beyond 2012: Herb Sutter - atomic Weapons 2 of 2]::
+https://www.youtube.com/watch?v=c1gO9aB9nbs[CppCon 2014: Herb Sutter "Lock-Free Programming (or, Juggling Razor Blades), Part I"]::
+https://www.youtube.com/watch?v=CmxkPChOcvw[CppCon 2014: Herb Sutter "Lock-Free Programming (or, Juggling Razor Blades), Part II"]::
+https://www.youtube.com/watch?v=KHa-OSrZPGo[CppCon 2016: “Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler"]::
+https://www.youtube.com/watch?v=yG1OZ69H_-o[CppCon 2016: Chandler Carruth “Garbage In, Garbage Out: Arguing about Undefined Behavior..."]::
+https://www.youtube.com/watch?v=P32hvk8b13M[CppCon 2016: Howard Hinnant “A ＜chrono＞ Tutorial"]::
+https://www.youtube.com/watch?v=6DPkyvkMkk8[CppCon 2016: Walter E. Brown “What C++ Programmers Need to Know about Header ＜random＞"]::
+https://www.youtube.com/watch?v=ZQFzMfHIxng[CppCon 2017: Fedor Pikus “C++ atomics, from basic to advanced. What do they really do?”]::
+https://www.youtube.com/watch?v=XS2JddPq7GQ[CppCon 2019: Ben Saks “Back to Basics: Understanding Value Categories”]::
+https://www.youtube.com/watch?v=St0MNEU5b0o[CppCon 2019: Klaus Iglberger “Back to Basics: Move Semantics (part 1 of 2)”]::
+https://www.youtube.com/watch?v=pIzaZbKUw2s[CppCon 2019: Klaus Iglberger “Back to Basics: Move Semantics (part 2 of 2)”]::
+https://www.youtube.com/watch?v=TWKY6W1C9yM[EEVblog #44 Part 1 - Logic Analyzer Tutorial]::
+https://www.youtube.com/watch?v=nAlNP-Z4QAQ[EEVblog #44 - Part 2 - Logic Analyzer Tutorial]::
+https://www.youtube.com/watch?v=mN_YGKt_ijk[EEVblog #138​ - Top 5 Engineering Graduate Tips]::
+https://www.youtube.com/watch?v=xaELqAo4kkQ[EEVblog #279​ - How NOT To Blow Up Your Oscilloscope!]::
+https://www.youtube.com/watch?v=gUsHwi4M4xE[EEVblog #496​ - What Is An FPGA?]::
+https://www.youtube.com/watch?v=TlWlLeC5BUs[EEVblog #499​ - What is JTAG and Boundary Scan?]::
+https://www.youtube.com/watch?v=y5aAjd9YPok[EEVblog #685​ - What Is Oscilloscope AC Trigger Coupling?]::
+https://www.youtube.com/watch?v=BcJ6UdDx1vg[EEVblog #859​ - Bypass Capacitor Tutorial]::
+https://www.youtube.com/watch?v=Ht48vv0rQYk[EEVblog #941​ - Schmitt Trigger Tutorial]::
+https://www.youtube.com/watch?v=7cLWz1jZd2Q[EEVblog #953​ - What Is Schematic ERC?]::
+https://www.youtube.com/watch?v=R_Ud-FxUw0g[EEVblog #1129​ - Creating a Nice Readable Schematic]::
+https://www.youtube.com/watch?v=rzo4Ntxqu1E[EEVblog #1367​ - 5 Types of Oscilloscope Passive Probes COMPARED]::
+https://www.youtube.com/watch?v=WlSb8hdFtTY[EEVblog #1368​ - Active Oscilloscope Probes COMPARED (Part 2)]::
+https://www.youtube.com/watch?v=sCtY--xRUyI::[introduction to GDB a tutorial - Harvard CS50]::
+https://www.youtube.com/watch?v=2sjqTHE0zok[Lecture 6: Version Control (git) (2020)]::
+https://www.youtube.com/watch?v=ieERUEhs910["New" Features in C - Dan Saks]::
+https://www.youtube.com/watch?v=adSAN282YIw[Opening Keynote Meeting C++ 2019 - Howard Hinnant - Design Rationale for the chrono Library]::
+https://www.youtube.com/watch?v=r-TLSBdHe1A["Performance Matters" by Emery Berger]::
+https://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-/Stephan-T-Lavavej-Core-C-9-of-n[Stephan T. Lavavej - Core C++, 9 of n]::
+https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you[Why the C Language Will Never Stop You from Making Mistakes]::
+
+// REMOVING THIS COMMENT CAN BREAK THE FORMATTING
+
+== Courses/Playlists
+
+https://www.youtube.com/playlist?list=PLB9A78ED3D7EF1AE5[Basics on Capacitors and Inductors]::
+https://eater.net/[Ben Eater]::
+https://www.nand2tetris.org/[From Nand to Tetris]::
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/[Introduction to Computer Science and Programming in Python]::
+https://www.youtube.com/playlist?list=PLvOlSehNtuHvmK-VGcZ33ZuATmcNB8tvH[LCD Tutorial]::
+
+// REMOVING THIS COMMENT CAN BREAK THE FORMATTING
+
+== References/Manuals
+
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820[21 CFR 820]::
+https://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc Writer’s Guide]::
+https://www.bluetooth.com/specifications/::
+https://www.boost.org/doc/::
+https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines[C++ Core Guidelines]::
+https://cdecl.org/::
+https://www.cplusplus.com/reference/::
+https://en.cppreference.com/w/c/links::
+https://en.cppreference.com/w/cpp/links::
+https://dhall-lang.org/::
+https://explainshell.com/::
+https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell[Learning PowerShell]::
+https://clang.llvm.org/docs/DriverInternals.html::
+[source, sh]
+----
+clang -### main.c
+clang -ccc-print-bindings main.c
+----
+https://www.python.org/dev/peps/[Index of Python Enhancement Proposals (PEPs)]::
+https://devguide.python.org/[Python Developer’s Guide]::
+https://sci-hub.do/::
+https://semver.org/[Semantic Versioning]::
+https://www.typescriptlang.org/::
+https://www.beyondlogic.org/usbnutshell/usb1.shtml[USB in a NutShell]::
+
+// REMOVING THIS COMMENT CAN BREAK THE FORMATTING
+
+== YouTube Channels
+
+https://www.youtube.com/channel/UCfAM3ZqzDZxL2Ez5R2oD-Qw[BayNet Events]::
+https://www.youtube.com/user/contextualelectronic[Contextual Electronics]::
+https://www.youtube.com/user/CppCon[CppCon]::
+https://www.youtube.com/user/BoostCon[CppNow]::
+https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw[dotNET]::
+https://www.youtube.com/user/EEVblog[EEVblog]::
+https://www.youtube.com/user/eevblog2[EEVblog2]::
+https://www.youtube.com/channel/UCkGvUEt8iQLmq3aJIMjT2qQ[EEVdiscover]::
+https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g[Microsoft Developer]::
+https://www.youtube.com/user/VisualStudio[Microsoft Visual Studio]::
+https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q[NDC Conferences]::
+https://www.youtube.com/user/solidworks[SOLIDWORKS]::
+https://www.youtube.com/channel/UCs5Y5_7XK8HLDX0SLNwkd3w[Visual Studio Code]::
+https://www.youtube.com/user/w2aew[w2aew]::
+
+// REMOVING THIS COMMENT CAN BREAK THE FORMATTING
+
+== TODO
+
+* Add something about pointer provinence
