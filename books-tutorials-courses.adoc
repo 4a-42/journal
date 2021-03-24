@@ -1,6 +1,6 @@
 = Educational Resources
 
-== Blogs
+== Articles/Blogposts
 
 https://docs.microsoft.com/en-us/cpp/cpp/cpp-bit-fields[C++ Bit Fields]::
 http://antoniak.in/blog/2018/11/21/clang-mingw-headers-windows/[Clang++ with MinGW headers on Windows]::
@@ -14,17 +14,37 @@ https://en.wikipedia.org/wiki/Shebang_(Unix)::
 
 // REMOVING THIS COMMENT CAN BREAK THE FORMATTING
 
-== Books
+== Books/Courses/Playlists
 
-https://www.elsevier.com/books/neuromodulation/krames/978-0-12-805353-9[Neuromodulation 2nd Edition]::
+Resources you're meant to read/watch completely, but are too long to do in a single sitting
+
+http://adv-r.had.co.nz/[Advanced R]::
+https://www.oreilly.com/library/view/the-art-of/9781593273842/[The Art of R Programming]::
+https://automatetheboringstuff.com/::
+https://www.youtube.com/playlist?list=PLB9A78ED3D7EF1AE5[Basics on Capacitors and Inductors]::
 https://beej.us/guide/bgnet/[Beej's Guide to Network Programming Using Internet Sockets]::
+http://www.roguebasin.com/index.php?title=Complete_Roguelike_Tutorial,_using_python3%2Blibtcod[Complete Roguelike Tutorial, using python3+libtcod]::
+https://eater.net/[Ben Eater]::
+https://www.elsevier.com/books/neuromodulation/krames/978-0-12-805353-9[Neuromodulation 2nd Edition]::
 https://www.oreilly.com/library/view/bluetooth-low-energy/9780132888394/[Bluetooth Low Energy: The Developer's Handbook]::
 https://theboostcpplibraries.com/[The Boost C++ Libraries]::
+http://www.crackingthecodinginterview.com/[CRACKING the CODING INTERVIEW]::
 https://www.deeplearningbook.org/[Deep Learning]::
-https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html[Is Parallel Programming Hard, And, If So, What Can You Do About It?]::
-https://crascit.com/professional-cmake/[Professional CMake]::
 https://curl.se/book.html[Everything curl]::
+https://www.nand2tetris.org/[From Nand to Tetris]::
 https://www.freertos.org/Documentation/RTOS_book.html[FreeRTOS Documentation]::
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/[Introduction to Computer Science and Programming in Python]::
+https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html[Is Parallel Programming Hard, And, If So, What Can You Do About It?]::
+https://javascript.info/::
+https://www.youtube.com/playlist?list=PLvOlSehNtuHvmK-VGcZ33ZuATmcNB8tvH[LCD Tutorial]::
+https://www.learn-js.org/::
+https://www.learnpython.org/::
+https://scrimba.com/learn/learnreact[Learn React for free]::
+http://introtodeeplearning.com/[MIT 6.S191 Introduction to Deep Learning]::
+http://neuralnetworksanddeeplearning.com/[Neural Networks and Deep Learning]::
+https://crascit.com/professional-cmake/[Professional CMake]::
+https://docs.python.org/3/tutorial/index.html[The Python Tutorial]::
+https://www.springer.com/series/6991[Use R!]::
 
 // REMOVING THIS COMMENT CAN BREAK THE FORMATTING
 
@@ -67,17 +87,9 @@ https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you[
 
 // REMOVING THIS COMMENT CAN BREAK THE FORMATTING
 
-== Courses/Playlists
-
-https://www.youtube.com/playlist?list=PLB9A78ED3D7EF1AE5[Basics on Capacitors and Inductors]::
-https://eater.net/[Ben Eater]::
-https://www.nand2tetris.org/[From Nand to Tetris]::
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/[Introduction to Computer Science and Programming in Python]::
-https://www.youtube.com/playlist?list=PLvOlSehNtuHvmK-VGcZ33ZuATmcNB8tvH[LCD Tutorial]::
-
-// REMOVING THIS COMMENT CAN BREAK THE FORMATTING
-
 == References/Manuals
+
+Resources you're meant to use as a reference, not read to completion
 
 https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820[21 CFR 820]::
 https://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc Writer’s Guide]::
@@ -91,6 +103,7 @@ https://en.cppreference.com/w/cpp/links::
 https://dhall-lang.org/::
 https://explainshell.com/::
 https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell[Learning PowerShell]::
+https://learnxinyminutes.com/::
 https://clang.llvm.org/docs/DriverInternals.html::
 [source, sh]
 ----
@@ -99,6 +112,7 @@ clang -ccc-print-bindings main.c
 ----
 https://www.python.org/dev/peps/[Index of Python Enhancement Proposals (PEPs)]::
 https://devguide.python.org/[Python Developer’s Guide]::
+https://doc.rust-lang.org/book/[The Rust Programming Language]::
 https://sci-hub.do/::
 https://semver.org/[Semantic Versioning]::
 https://www.typescriptlang.org/::
@@ -116,10 +130,12 @@ https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw[dotNET]::
 https://www.youtube.com/user/EEVblog[EEVblog]::
 https://www.youtube.com/user/eevblog2[EEVblog2]::
 https://www.youtube.com/channel/UCkGvUEt8iQLmq3aJIMjT2qQ[EEVdiscover]::
+https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA[The Julia Programming Language]::
 https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g[Microsoft Developer]::
 https://www.youtube.com/user/VisualStudio[Microsoft Visual Studio]::
 https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q[NDC Conferences]::
 https://www.youtube.com/user/solidworks[SOLIDWORKS]::
+https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw[thenewboston]::
 https://www.youtube.com/channel/UCs5Y5_7XK8HLDX0SLNwkd3w[Visual Studio Code]::
 https://www.youtube.com/user/w2aew[w2aew]::
 

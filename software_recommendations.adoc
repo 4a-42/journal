@@ -106,8 +106,14 @@ https://include-what-you-use.org/downloads/[include-what-you-use]::
 
 == Websites
 
+https://devdocs.io/::
 https://discourse.cmake.org/::
+https://codepen.io/::
 https://cppinsights.io/::
+https://www.debuggex.com/::
+https://www.diagrams.net/::
+https://distrowatch.com/::
+IDK what this is - looks nerdy
 https://godbolt.org/::
 http://detexify.kirelabs.org/classify.html::
 https://devzone.nordicsemi.com/::
@@ -116,6 +122,20 @@ https://regex101.com/::
 https://e2e.ti.com/::
 https://wandbox.org/::
 https://www.wikistim.org/::
+// REMOVING THIS COMMENT CAN BREAK THE FORMATTING
+
+=== Coding Challenges
+
+https://adventofcode.com/::
+http://www.codeabbey.com/::
+https://codingbat.com/java::
+https://leetcode.com/problemset/all/::
+https://projecteuler.net/::
+http://play.inginf.units.it/#/[RegexPlay]::
+https://realpython.com/::
+https://rosettacode.org/wiki/Category:Programming_Tasks::
+https://www.reddit.com/r/dailyprogrammer/::
+
 // REMOVING THIS COMMENT CAN BREAK THE FORMATTING
 
 == Environment Variables (Windows)
